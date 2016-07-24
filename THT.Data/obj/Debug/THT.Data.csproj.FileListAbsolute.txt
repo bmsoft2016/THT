@@ -1,0 +1,14 @@
+C:\TuanNguyen\thtframwork\THT\THT.Data\bin\Debug\THT.Data.dll.config
+C:\TuanNguyen\thtframwork\THT\THT.Data\bin\Debug\THT.Data.dll
+C:\TuanNguyen\thtframwork\THT\THT.Data\bin\Debug\THT.Data.pdb
+C:\TuanNguyen\thtframwork\THT\THT.Data\bin\Debug\EntityFramework.dll
+C:\TuanNguyen\thtframwork\THT\THT.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\TuanNguyen\thtframwork\THT\THT.Data\bin\Debug\THT.Model.dll
+C:\TuanNguyen\thtframwork\THT\THT.Data\bin\Debug\THT.Model.pdb
+C:\TuanNguyen\thtframwork\THT\THT.Data\bin\Debug\EntityFramework.xml
+C:\TuanNguyen\thtframwork\THT\THT.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\TuanNguyen\thtframwork\THT\THT.Data\obj\Debug\THT.Data.csprojResolveAssemblyReference.cache
+C:\TuanNguyen\thtframwork\THT\THT.Data\obj\Debug\THT.Data.Migrations.initdatabase.resources
+C:\TuanNguyen\thtframwork\THT\THT.Data\obj\Debug\THT.Data.csproj.GenerateResource.Cache
+C:\TuanNguyen\thtframwork\THT\THT.Data\obj\Debug\THT.Data.dll
+C:\TuanNguyen\thtframwork\THT\THT.Data\obj\Debug\THT.Data.pdb

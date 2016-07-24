@@ -1,0 +1,4 @@
+C:\TuanNguyen\thtframwork\THT\THT.Common\bin\Debug\THT.Common.dll
+C:\TuanNguyen\thtframwork\THT\THT.Common\bin\Debug\THT.Common.pdb
+C:\TuanNguyen\thtframwork\THT\THT.Common\obj\Debug\THT.Common.dll
+C:\TuanNguyen\thtframwork\THT\THT.Common\obj\Debug\THT.Common.pdb

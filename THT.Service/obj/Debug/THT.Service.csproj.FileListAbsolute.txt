@@ -1,0 +1,16 @@
+C:\TuanNguyen\thtframwork\THT\THT.Service\bin\Debug\THT.Service.dll.config
+C:\TuanNguyen\thtframwork\THT\THT.Service\bin\Debug\THT.Service.dll
+C:\TuanNguyen\thtframwork\THT\THT.Service\bin\Debug\THT.Service.pdb
+C:\TuanNguyen\thtframwork\THT\THT.Service\bin\Debug\EntityFramework.dll
+C:\TuanNguyen\thtframwork\THT\THT.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\TuanNguyen\thtframwork\THT\THT.Service\bin\Debug\Newtonsoft.Json.dll
+C:\TuanNguyen\thtframwork\THT\THT.Service\bin\Debug\THT.Data.dll
+C:\TuanNguyen\thtframwork\THT\THT.Service\bin\Debug\THT.Model.dll
+C:\TuanNguyen\thtframwork\THT\THT.Service\bin\Debug\THT.Data.pdb
+C:\TuanNguyen\thtframwork\THT\THT.Service\bin\Debug\THT.Model.pdb
+C:\TuanNguyen\thtframwork\THT\THT.Service\bin\Debug\EntityFramework.xml
+C:\TuanNguyen\thtframwork\THT\THT.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\TuanNguyen\thtframwork\THT\THT.Service\bin\Debug\Newtonsoft.Json.xml
+C:\TuanNguyen\thtframwork\THT\THT.Service\obj\Debug\THT.Service.csprojResolveAssemblyReference.cache
+C:\TuanNguyen\thtframwork\THT\THT.Service\obj\Debug\THT.Service.dll
+C:\TuanNguyen\thtframwork\THT\THT.Service\obj\Debug\THT.Service.pdb

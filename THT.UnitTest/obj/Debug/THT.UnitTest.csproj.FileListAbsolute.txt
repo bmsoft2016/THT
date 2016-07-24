@@ -1,0 +1,6 @@
+C:\TuanNguyen\thtframwork\THT\THT.UnitTest\bin\Debug\THT.UnitTest.dll
+C:\TuanNguyen\thtframwork\THT\THT.UnitTest\bin\Debug\THT.UnitTest.pdb
+C:\TuanNguyen\thtframwork\THT\THT.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\TuanNguyen\thtframwork\THT\THT.UnitTest\obj\Debug\THT.UnitTest.dll
+C:\TuanNguyen\thtframwork\THT\THT.UnitTest\obj\Debug\THT.UnitTest.pdb
+C:\TuanNguyen\thtframwork\THT\THT.UnitTest\obj\Debug\THT.UnitTest.csprojResolveAssemblyReference.cache

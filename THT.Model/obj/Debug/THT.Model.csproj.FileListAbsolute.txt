@@ -1,0 +1,9 @@
+C:\TuanNguyen\thtframwork\THT\THT.Model\bin\Debug\THT.Model.dll.config
+C:\TuanNguyen\thtframwork\THT\THT.Model\bin\Debug\THT.Model.dll
+C:\TuanNguyen\thtframwork\THT\THT.Model\bin\Debug\THT.Model.pdb
+C:\TuanNguyen\thtframwork\THT\THT.Model\bin\Debug\EntityFramework.dll
+C:\TuanNguyen\thtframwork\THT\THT.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\TuanNguyen\thtframwork\THT\THT.Model\bin\Debug\EntityFramework.xml
+C:\TuanNguyen\thtframwork\THT\THT.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\TuanNguyen\thtframwork\THT\THT.Model\obj\Debug\THT.Model.dll
+C:\TuanNguyen\thtframwork\THT\THT.Model\obj\Debug\THT.Model.pdb

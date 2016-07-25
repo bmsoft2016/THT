@@ -5,29 +5,30 @@
 
     function config($stateProvider, $urlRouterProvider) {
         $stateProvider
-            .state('base', {
-                url: '',
-                templateUrl: '/app/shared/views/baseView.html',
-                abstract: true
-            })
-            //.state('login', {
-            //    url: "/login",
-            //    parent:'base',
-            //    templateUrl: "/app/components/account/loginView.html",
-            //    controller: "loginController"
-            //}).state('register', {
-            //    url: "/register",
-            //    parent:'base',
-            //    templateUrl: "/app/components/account/registerView.html",
-            //    controller: "registerController"
-            //})
-            .state('home', {
-                url: "/admin",
-                parent: 'base',
-                templateUrl: "/app/components/home/index.html",
-                controller: "homeController"
-            });
-      //  $urlRouterProvider.otherwise('/');
+               .state('base', {
+                   url: '',
+                   templateUrl: '/app/shared/views/baseView.html',
+                   abstract: true
+               })
+               .state('login', {
+                   url: "/login",
+                  // parent: 'base',
+                   templateUrl: "/app/components/account/loginView.html",
+                   controller: "loginController"
+               })
+               .state('register', {
+                   url: "/register",
+                   parent: 'base',
+                   templateUrl: "/app/components/account/registerView.html",
+                   controller: "registerController"
+               })
+               .state('admin', {
+                   url: "/admin",
+                   parent: 'base',
+                   templateUrl: "/app/components/home/index.html",
+                   controller: "homeController"
+               });
+        $urlRouterProvider.otherwise('/admin');
     }
 
 
